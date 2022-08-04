@@ -1,0 +1,20 @@
+{
+  "name": "StampImage/42bQgfeKjE5BXC8u5iDq",
+  "bucket": "ryoheymeeting-373cd.appspot.com",
+  "contentType": "application/octet-stream",
+  "metageneration": 1,
+  "generation": 1658987824535,
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "cacheControl": "public, max-age=3600",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "b6dec8d5-df4a-4461-8c9e-32a57d58ea55"
+  ],
+  "etag": "f9oBeDmdAGLRlYB682m7UDddhcU",
+  "timeCreated": "2022-07-28T05:57:04.535Z",
+  "updated": "2022-07-28T05:57:04.535Z",
+  "size": 76113,
+  "md5Hash": "R/casDtUyicHGY5lBbnjSw==",
+  "crc32c": "626273033"
+}
