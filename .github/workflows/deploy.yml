@@ -6,7 +6,7 @@ name: CD
 on:
   # Triggers the workflow on push or pull request events but only for the main branch
   push:
-    branches: [ published ]
+    branches: [published]
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -23,7 +23,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v1
         with:
-          node-version: "16.11.0"
+          node-version: "16.14.2"
       - name: Install Packages
         run: yarn install
       - name: Deploy
