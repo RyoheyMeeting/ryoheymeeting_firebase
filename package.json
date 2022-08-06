@@ -5,7 +5,7 @@
     "firebase-tools": "^10.3.1"
   },
   "scripts": {
-    "start": "firebase emulators:start --import=./sample",
+    "start": "firebase emulators:start --import=./sample --token $FIREBASE_LOGIN_TOKEN",
     "export": "firebase emulators:export --force ./sample"
   }
 }
